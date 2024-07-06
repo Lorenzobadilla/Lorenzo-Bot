@@ -2,9 +2,9 @@
   "name": "Lorenzo Botv2",
   "version": "2.0.1",
   "description": "Facebook Messenger Bot made by Lorenzo",
-  "main": "index.js",
+  "main": "lorenzo.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node lorenzo.js"
   },
   "repository": {
     "type": "git",
@@ -22,11 +22,11 @@
   },
   "homepage": "https://github.com/Lorenzobadilla/Lorenzo-Bot",
   "dependencies": {
-    "@distube/ytdl-core": "^4.13.3",
     "axios": "^1.6.8",
+    "body-parser": "^1.20.2",
     "chalk": "^4.1.2",
     "express": "^4.19.2",
-    "fb-chat-api-temp": "git+https://github.com/ntkhang03/fb-chat-api-temp.git",
+    "fca-project-orion": "^1.1.22",
     "figlet": "^1.7.0",
     "fs": "^0.0.1-security",
     "fs-extra": "^11.2.0",
@@ -35,7 +35,7 @@
     "moment-timezone": "^0.5.45",
     "node-cron": "^3.0.3",
     "npm": "^10.8.1",
-    "semver": "^7.6.2",
-    "sqlite3": "^5.1.7"
+    "request": "^2.88.2",
+    "semver": "^7.6.2"
   }
 }
