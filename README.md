@@ -4,4 +4,4 @@
 A Simple Lorenzo Bot for starting a Messenger chatbot.
 
 <p align="center">
-<img align="center" src="">
+<img align="center" src="https://i.imgur.com/VLElmTB.png">
