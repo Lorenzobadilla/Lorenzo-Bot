@@ -5,3 +5,5 @@ A Simple Lorenzo Bot for starting a Messenger chatbot.
 
 <p align="center">
 <img align="center" src="https://i.imgur.com/VLElmTB.png">
+---
+Copyright © 2024 Lorenzo Badilla (LORENZO), Philippines.<br>
