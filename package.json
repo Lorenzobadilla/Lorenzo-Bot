@@ -6,11 +6,6 @@
   "scripts": {
     "start": "node lorenzo.js"
   },
-  "type": "module",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Lorenzobadilla/Lorenzo-Bot"
-	},
   "repository": {
     "type": "git",
     "url": "https://github.com/Lorenzobadilla/Lorenzo-Bot.git"
